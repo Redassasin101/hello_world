@@ -1,3 +1,3 @@
 # hello_world
 
-The quick brown fox jumps
+The quick red fox jumps
